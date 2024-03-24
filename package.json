@@ -1,6 +1,6 @@
 {
-  "name": "refs-demo-project",
-  "private": true,
+  "name": "react-project-manager",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
